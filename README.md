@@ -33,6 +33,8 @@ E19. Conditioanl GAN| cGAN, Pix2Pix ([link](https://github.com/Woodywarhol9/aiff
 G1. Ablation Study - VGG([link](https://github.com/Woodywarhol9/aiffel/blob/main/CV/%5BG1%5DVGG_ablation_study.ipynb))| G2. Ablation Study - ResNet([link](https://github.com/Woodywarhol9/aiffel/tree/main/CV/%5BG2%5DResNet_ablation_study))
 G3. Data Augmentation([link](https://github.com/Woodywarhol9/aiffel/blob/main/CV/%5BG3%5Ddata_augmentation.ipynb))| G4. Ablation Study - Data Augmentation([link](https://github.com/Woodywarhol9/aiffel/tree/main/CV/%5BG4%5Ddata_augmentation_pjt))
 G5. Class Activation Map| G6. CAM, Grad-CAM([link](https://github.com/Woodywarhol9/aiffel/blob/main/CV/%5BG6%5DCAM.ipynb))
-G7. Object Detection([link](https://github.com/Woodywarhol9/aiffel/blob/main/CV/%5BG7%5Dobject_detection.ipynb))| G8. 주행 보조 시스템([link](https://github.com/Woodywarhol9/aiffel/blob/main/CV/%5BG8%5Dobject_detection_pjt.ipynbb))
+G7. Object Detection([link](https://github.com/Woodywarhol9/aiffel/blob/main/CV/%5BG7%5Dobject_detection.ipynb))| G8. 주행 보조 시스템([link](https://github.com/Woodywarhol9/aiffel/blob/main/CV/%5BG8%5Dobject_detection_pjt.ipynb))
+G9. Semantic Segmentation | G10. U-Net, U-Net++ 구현([link](https://github.com/Woodywarhol9/aiffel/tree/main/CV/%5BG10%5DUnet_augmentation))
+G11. OCR | G12. OCR 프로젝트([link](https://github.com/Woodywarhol9/aiffel/blob/main/CV/%5BG12%5Docr_pjt.ipynb))
 ...
 
