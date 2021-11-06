@@ -36,5 +36,6 @@ G5. Class Activation Map| G6. CAM, Grad-CAM([link](https://github.com/Woodywarho
 G7. Object Detection([link](https://github.com/Woodywarhol9/aiffel/blob/main/CV/%5BG7%5Dobject_detection.ipynb))| G8. 주행 보조 시스템([link](https://github.com/Woodywarhol9/aiffel/blob/main/CV/%5BG8%5Dobject_detection_pjt.ipynb))
 G9. Semantic Segmentation | G10. U-Net, U-Net++ 구현([link](https://github.com/Woodywarhol9/aiffel/tree/main/CV/%5BG10%5DUnet_augmentation))
 G11. OCR | G12. OCR 프로젝트([link](https://github.com/Woodywarhol9/aiffel/blob/main/CV/%5BG12%5Docr_pjt.ipynb))
+G13. SSD | G14. SSD 프로젝트([link](https://github.com/Woodywarhol9/aiffel/tree/main/CV/%5BG14%5Dssd_face_detection))
 ...
 
